@@ -1,0 +1,1 @@
+Upscaled Images and Videos will appear here in the same directory structure as the Input folder.

@@ -1,0 +1,1 @@
+Place Images and Videos that you want to upscale in the respective folders.

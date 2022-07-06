@@ -1,0 +1,1 @@
+Place all the images that you want to upscale in this folder.
